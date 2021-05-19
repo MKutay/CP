@@ -1,0 +1,2 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:24:41	194/194	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2030%20Mar%202021%2013:24:41%20GMT	https://tech.rokomari.com/where-why-and-how-to-use-sibling-dp-technique	tech.rokomari.com/where-why-and-how-to-use-sibling-dp-technique.0.delayed	(from )

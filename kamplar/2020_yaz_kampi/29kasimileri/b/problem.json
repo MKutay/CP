@@ -1,0 +1,1 @@
+{"name": "B - Tree Rotations", "group": "Virtual Judge - Ileri seviye", "url": "https://vjudge.net/contest/410709#problem/B", "interactive": false, "memoryLimit": 1024, "timeLimit": 1000, "tests": [], "testType": "single", "input": {"type": "stdin"}, "output": {"type": "stdout"}, "languages": {"java": {"mainClass": "Main", "taskClass": "BTreeRotations"}}}

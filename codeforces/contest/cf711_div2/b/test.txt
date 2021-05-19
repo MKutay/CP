@@ -1,0 +1,11 @@
+ben sey yaptim
+2nin usleri ya
+W'ye alabilecegimin en buyugunuz aldim
+mesela
+W = 16
+A = 8, 4, 2
+16 - 8 = 8
+8 - 4 = 4
+4 - 2 = 2
+seklinde yaptim
+W'ye baska koyamayacagim zmn bir ust kata gectim

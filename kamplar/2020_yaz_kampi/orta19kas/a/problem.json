@@ -1,0 +1,1 @@
+{"name": "A - Yar\u0131 Yar\u0131ya", "group": "Virtual Judge - 19 Kas\u0131m 2020 Ortaokul Contest", "url": "https://vjudge.net/contest/408622#problem/A", "interactive": false, "memoryLimit": 1048, "timeLimit": 2000, "tests": [], "testType": "single", "input": {"type": "stdin"}, "output": {"type": "stdout"}, "languages": {"java": {"mainClass": "Main", "taskClass": "AYarYarya"}}}

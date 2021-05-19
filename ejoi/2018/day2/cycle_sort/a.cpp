@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+template<typename T>
+istream &operator>>(istream &is, vector<T> &v) {
+	for (auto &x : v) is >> x;
+	return is;
+}
+
+int main() {
+	ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+	int n, s; cin >> n >> s;
+	vector<int> a(n); cin >> a;
+	auto b = a;
+	sort(b.begin(), b.end());
+	if (b == a) {
+		cout << "0\n";
+		return 0;
+	}
+	return 0;
+}
+
